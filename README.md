@@ -1,4 +1,4 @@
-# Generic Login: This example is to show of how to use login functionality with secured storage using Keychain Services on iOS.
+# Generic Login: This example is to show, how to use login functionality with secured storage using Keychain Services on iOS.
  ##Application contains login box and after entering credential the user ID will get stored in userdefault and password in Keychain.
 
  ##This sample demonstrates how to use the Keychain Services API to store, update and delete generic password keychain items.
